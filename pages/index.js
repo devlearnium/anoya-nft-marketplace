@@ -1,3 +1,4 @@
+import BannerFour from '../components/BannerFour';
 import BannerThree from '../components/BannerThree';
 import Category from '../components/Category';
 import LiveAuction from '../components/LiveAuction';
@@ -9,6 +10,7 @@ import LatestNews from '../components/LatestNews';
 const HomeThree = () => {
   return (
     <div>
+      <BannerFour />
       <BannerThree />
       <Category />
       <LiveAuction />
