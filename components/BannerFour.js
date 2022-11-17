@@ -94,7 +94,7 @@ const BannerFour = () => {
                 </div>
             </div>
         </div>
-        <div className='col-12'><iframe src='https://my.spline.design/noiselightscopy-7f5fe0f73fdbea091baac733b766220d/' frameborder='0' width='100%' height='100%'></iframe>
+        <div className='col-12'><iframe src='https://my.spline.design/noiselightscopy-7f5fe0f73fdbea091baac733b766220d/' frameborder='0' width='100%' height='50%'></iframe>
         </div>
     </section>
     
