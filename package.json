@@ -1,0 +1,24 @@
+{
+  "name": "anfiz-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.2.1",
+    "react-dom": "17.0.2",
+    "react-timer-hook": "^3.0.5",
+    "swiper": "^8.0.7"
+  },
+  "devDependencies": {
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0"
+  }
+}
