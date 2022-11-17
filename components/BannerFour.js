@@ -97,7 +97,7 @@ const BannerFour = () => {
     </section>
     
     <div className="container">
-    <iframe style="border: none" width="820" height="460" src="https://rive.app/community/3146-6725-pull-to-refresh/embed" allowfullscreen></iframe>
+    <iframe  src="https://rive.app/community/3146-6725-pull-to-refresh/embed" width={1000} height={500}></iframe>
     </div>
     )
 
