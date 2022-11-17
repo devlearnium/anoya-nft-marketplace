@@ -94,8 +94,11 @@ const BannerFour = () => {
                 </div>
             </div>
         </div>
-    </section>
+    </section><div>
+    <iframe style="border: none" width="820" height="460" src="https://rive.app/community/3146-6725-pull-to-refresh/embed" allowfullscreen></iframe>
+    </div>
     )
+
 }
 
-export default BannerFour
+export default BannerFour 
