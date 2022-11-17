@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const BannerFour = () => {
     return(
-        <section className="banner-section" style={{backgroundImage:"url('assets/images/banner/bg-1.jpg')"}}>
+        <section className="banner-section" style={{backgroundImage:"url('assets/images/banner/bg-2.jpg')"}}>
         <div className="container">
             <div className="banner-wrapper">
                 <div className="row align-items-center justify-content-center">
