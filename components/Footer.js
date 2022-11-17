@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <div>
             <footer className="footer-section">
-            <div className="footer-top" style={{backgroundImage:"url('assets/images/footer/bg.jpg')"}}>
+            <div className="footer-top" style={{backgroundImage:"url('assets/images/footer/bg.svg')"}}>
                 <div className="footer-newsletter">
                     <div className="container">
                         <div className="row g-4 align-items-center justify-content-center">
