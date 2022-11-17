@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }) {
         <
         title > ANOYA - NFT Marketplace < /title> <
         meta name = "description"
-        content = "ANOYA is a full-fledged NFT  marketplace for selling NFTs, or non-fungible tokens, Digital Arts, Digital Music & All types of Digital Assets. You can create, sell & collect NFT’s or digital assets through this website." / >
+        content = "Anftiz is a full-fledged NFT or Digital assets marketplace HTML template. It is suitable for selling NFTs, or non-fungible tokens, Digital Arts, Digital Music & All types of Digital Assets. You can create, sell & collect NFT’s or digital assets through this website." / >
         <
         link rel = "icon"
         type = "image/png"
@@ -26,8 +26,8 @@ function MyApp({ Component, pageProps }) {
         Header > < /Header> <
         Component {...pageProps }
         /> <
-        Footer > < /Footer> < /
-        div >
+        Footer > < /Footer> <
+        /div>
 
     )
 }

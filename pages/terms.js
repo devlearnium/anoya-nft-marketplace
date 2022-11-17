@@ -29,8 +29,8 @@ const Terms = () => {
         /div> <
         div className = "terms-text" >
         <
-        p className = "mb-4" > Welcome to ANOYA nft - marketplace, owned and operated by anoya.io, Inc.d / b / a Anftiz(“Anftiz, ”“we, ”“us”,
-            or“ our”).These Terms of Service(“Terms”) govern your access to and use of the Anftiz website(s), our APIs,
+        p className = "mb-4" > Welcome to ANOYA nft - marketplace, owned and operated by anoya.io, Inc.d / b / a ANOYA(“ANOYA, ”“we, ”“us”,
+            or“ our”).These Terms of Service(“Terms”) govern your access to and use of the ANOYA website(s), our APIs,
         mobile app(the“ App”),
         and any other software, Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis,
         commodi ?
@@ -40,7 +40,7 @@ const Terms = () => {
         li >
         <
         h5 > Introduction < /h5> <
-        p > Terms of Service(“Terms”) govern your access to and use of the Anftiz website(s), our APIs,
+        p > Terms of Service(“Terms”) govern your access to and use of the ANOYA website(s), our APIs,
         mobile app(the“ App”),
         and any other software, Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis,
         commodi ?
@@ -49,7 +49,7 @@ const Terms = () => {
         li >
         <
         h5 > Accessing the Service < /h5> <
-        p > Terms of Service(“Terms”) govern your access to and use of the Anftiz website(s), our APIs,
+        p > Terms of Service(“Terms”) govern your access to and use of the ANOYA website(s), our APIs,
         mobile app(the“ App”),
         and any other software, Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis,
         commodi ?
@@ -61,7 +61,7 @@ const Terms = () => {
         li >
         <
         h5 > Ownership < /h5> <
-        p > Terms of Service(“Terms”) govern your access to and use of the Anftiz website(s), our APIs,
+        p > Terms of Service(“Terms”) govern your access to and use of the ANOYA website(s), our APIs,
         mobile app(the“ App”),
         and any other software, Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis,
         commodi ?
@@ -73,7 +73,7 @@ const Terms = () => {
         li >
         <
         h5 > Third - Party Content and Services < /h5> <
-        p > Terms of Service(“Terms”) govern your access to and use of the Anftiz website(s), our APIs,
+        p > Terms of Service(“Terms”) govern your access to and use of the ANOYA website(s), our APIs,
         mobile app(the“ App”),
         and any other software, Lorem ipsum dolor sit amet consectetur adipisicing elit.Corporis,
         commodi ?
