@@ -29,7 +29,7 @@ const LiveAuction = () => {
                     <div className="auction-holder">
                     <Swiper
                     spaceBetween={20}
-                    slidesPerView={4}
+                    slidesPerView={3}
                    
                     ref={swiperRef}
                     >
