@@ -332,16 +332,12 @@ const Header = () => {
                         <div className="wallet-btn">
                             <Link href="/wallet">
                             <a ><span><i className="icofont-wallet" data-blast="color"></i></span> <span
-                                    className="d-none d-md-inline">234.98ETH</span> </a>
+                                    className="d-none d-md-inline">213.98XRP</span> </a>
                              </Link>
                         </div>
                     </div>
 
-                    <button className="menu-trigger header__btn" id="menu05">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                    </button>
+                     
                 </div>
             </div>
         </header>
